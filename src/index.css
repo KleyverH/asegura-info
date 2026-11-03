@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite-react";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-principal: "Inter", sans-serif;
+
+    --color-vinotinto: #800020;
+    --color-deep-navy: #191970;
+    --color-gold: #DAA520;
+    --color-sombra: #F5F5F7;
+    --color-blanco: #FFFFFF;
+    --color-gris: #333333;
+    --color-vinotinto-secundario: #9D2235;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-principal);
+  }
+}
+
+@layer components {
+  [role="tablist"] [role="tab"][aria-selected="true"] {
+    color: var(--color-vinotinto) !important;
+    background-color: var(--color-blanco) !important;
+  }
+
+  [role="tablist"] [role="tab"][aria-selected="false"] {
+    color: var(--color-gris) !important;
+  }
+}
