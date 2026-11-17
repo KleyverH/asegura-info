@@ -10,6 +10,8 @@ export default function Comparador() {
   const [selectedLeftId, setSelectedLeftId] = useState("");
   const [selectedRightId, setSelectedRightId] = useState("");
 
+  console.log("Cantidad de aseguradoras:", aseguradoras.length);
+  console.log("Aseguradoras:", aseguradoras);
   // Selecciona las dos primeras por defecto cuando cargan los datos
   useEffect(() => {
     if (aseguradoras.length > 0) {

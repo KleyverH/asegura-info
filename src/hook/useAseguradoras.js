@@ -10,12 +10,20 @@ export default function useAseguradoras() {
       try {
         setLoading(true);
         setError(null);
-        const respuesta = await fetch("/aseguradoras.json");
-        if (!respuesta.ok) {
-          throw new Error(`Error HTTP: ${respuesta.status}`);
+
+        const local = localStorage.getItem("aseguradoras");
+        if (local) {
+          setAseguradoras(JSON.parse(local));
+          setLoading(false);
+          return;
         }
+
+        const respuesta = await fetch("/aseguradoras.json");
+        if (!respuesta.ok) throw new Error(`Error HTTP: ${respuesta.status}`);
         const data = await respuesta.json();
         setAseguradoras(data);
+
+        localStorage.setItem("aseguradoras", JSON.stringify(data));
       } catch (err) {
         setError(err.message);
       } finally {

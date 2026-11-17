@@ -6,6 +6,9 @@ import Comparacion from './pages/Comparacion';
 import Directorio from './pages/Directorio';
 import FichaTecnica from './pages/FichaTecnica';
 import Blog from './pages/Blog';
+import Login from './pages/admin/login';
+import Dashboard from './pages/admin/Dashboard';
+import Formulario from "./pages/admin/Formulario";
 
 export function App() {
   return (
@@ -21,6 +24,10 @@ export function App() {
           <Route path="/ficha-tecnica/:slug" element={<FichaTecnica />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/comparacion" element={<Comparacion />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/admin/dashboard" element={<Dashboard />} />
+          <Route path="/admin/aseguradoras/nueva" element={<Formulario />} />
+          <Route path="/admin/aseguradoras/:id/editar" element={<Formulario />} />
           <Route path="*" element={<h1>Página no encontrada (404)</h1>} />
         </Routes>
       </main>
