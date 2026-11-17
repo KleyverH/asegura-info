@@ -1,0 +1,767 @@
+[
+  {
+    "id": "seguros-caracas",
+    "nombre": "Seguros Caracas, C.A.",
+    "calificacion": "5",
+    "slug": "seguros-caracas",
+    "rif": "Por confirmar",
+    "logo": "/logos/seguros-caracas.svg",
+    "descripcion": "Empresa aseguradora venezolana con más de 80 años de trayectoria, con productos para personas y empresas en salud, vida, auto, hogar y patrimoniales.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Avenida Francisco de Miranda, C.C. El Parque, Torre Seguros Caracas, nivel C-4, Urb. Los Palos Grandes"
+    },
+    "contacto": {
+      "telefono": "0800-7348227",
+      "email": "Por confirmar",
+      "website": "https://www.seguroscaracas.com/"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección ante daños, responsabilidad civil y otros eventos.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia vial"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Maternidad"
+        ]
+      },
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección económica para la familia en caso de fallecimiento del asegurado.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "hogar",
+        "nombre": "Seguro de hogar",
+        "descripcion": "Protección del inmueble y contenido frente a eventos cubiertos.",
+        "coberturas": [
+          "Incendio",
+          "Robo",
+          "Daños por agua",
+          "Responsabilidad civil familiar"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de Seguros Caracas",
+      "url": "https://www.seguroscaracas.com/",
+      "verificadoEn": "2026-10-06"
+    }
+  },
+  {
+    "id": "seguros-la-previsora",
+    "nombre": "C.N.A. de Seguros La Previsora",
+    "calificacion": "4,1",
+    "slug": "seguros-la-previsora",
+    "rif": "J-00021376-3",
+    "logo": "/logos/seguros-la-previsora.svg",
+    "descripcion": "Empresa aseguradora venezolana adscrita al Ministerio del Poder Popular de Economía, Finanzas y Comercio Exterior, con soluciones de seguros integrales para personas y empresas.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Av. Abraham Lincoln con las Acacias, Edif. Torre La Previsora, El Recreo"
+    },
+    "contacto": {
+      "telefono": "0212-819-2800",
+      "email": "consulta.previsora@previsora.com.ve",
+      "website": "https://www.previsora.com.ve/"
+    },
+    "ramos": [
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos según el plan contratado, con red de clínicas a nivel nacional.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Maternidad",
+          "Asistencia médica domiciliaria"
+        ]
+      },
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección financiera para la familia del asegurado.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "accidentes",
+        "nombre": "Accidentes personales",
+        "descripcion": "Protección frente a lesiones o invalidez derivadas de accidentes.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "hogar",
+        "nombre": "Seguro de hogar",
+        "descripcion": "Protección del inmueble y contenido frente a eventos cubiertos.",
+        "coberturas": [
+          "Incendio",
+          "Robo",
+          "Daños por agua",
+          "Responsabilidad civil familiar"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de Seguros La Previsora",
+      "url": "https://www.previsora.com.ve/",
+      "verificadoEn": "2026-10-06"
+    }
+  },
+  {
+    "id": "aseguradora-caracas",
+    "nombre": "Aseguradora Caracas, C.A.",
+    "calificacion": "3,4",
+    "slug": "aseguradora-caracas",
+    "rif": "Por confirmar",
+    "logo": "/logos/aseguradora-caracas.svg",
+    "descripcion": "Empresa aseguradora venezolana con presencia en el mercado local, enfocada en soluciones para personas y empresas.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Por confirmar"
+    },
+    "contacto": {
+      "telefono": "Por confirmar",
+      "email": "Por confirmar",
+      "website": "Por confirmar"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección ante daños, responsabilidad civil y otros eventos.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia vial"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Maternidad"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Por confirmar",
+      "url": "Por confirmar",
+      "verificadoEn": "2026-10-06"
+    }
+  },
+  {
+    "id": "seguros-altamira",
+    "nombre": "Seguros Altamira, C.A.",
+    "calificacion": "4,0",
+    "slug": "seguros-altamira",
+    "rif": "Por confirmar",
+    "logo": "/logos/seguros-altamira.svg",
+    "descripcion": "Empresa aseguradora venezolana con oferta de productos para personas y empresas.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Por confirmar"
+    },
+    "contacto": {
+      "telefono": "Por confirmar",
+      "email": "Por confirmar",
+      "website": "Por confirmar"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección ante daños, responsabilidad civil y otros eventos.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia vial"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Maternidad"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Por confirmar",
+      "url": "Por confirmar",
+      "verificadoEn": "2026-10-06"
+    }
+  },
+  {
+    "id": "seguros-bolivar",
+    "nombre": "Seguros Bolívar, C.A.",
+    "calificacion": "2,4",
+    "slug": "seguros-bolivar",
+    "rif": "Por confirmar",
+    "logo": "/logos/seguros-bolivar.svg",
+    "descripcion": "Empresa aseguradora venezolana con presencia en el mercado local, enfocada en soluciones para personas y empresas.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Por confirmar"
+    },
+    "contacto": {
+      "telefono": "Por confirmar",
+      "email": "Por confirmar",
+      "website": "Por confirmar"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección ante daños, responsabilidad civil y otros eventos.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia vial"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Maternidad"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Por confirmar",
+      "url": "Por confirmar",
+      "verificadoEn": "2026-10-06"
+    }
+  },
+  {
+    "id": "estar-seguros",
+    "nombre": "Estar Seguros, S.A.",
+    "calificacion": "3",
+    "slug": "estar-seguros",
+    "rif": "J-00007587-5",
+    "logo": "/logos/estar-seguros.svg",
+    "descripcion": "Compañía aseguradora venezolana con más de 75 años de tradición y experiencia en el mercado asegurador nacional. Ofrece productos y servicios para personas y empresas, con presencia en distintas regiones del país.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Centro Plaza, Torre D, pisos 09 al 18, Primera Transversal de Los Palos Grandes, Caracas 1062, Venezuela"
+    },
+    "contacto": {
+      "telefono": "+58-212-278.00.00",
+      "email": "Por confirmar",
+      "website": "https://www.estarseguros.com/"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección para automóviles y motos ante eventos cubiertos, incluyendo choque, colisión y volcamiento según el plan contratado.",
+        "coberturas": [
+          "Choque",
+          "Colisión",
+          "Volcamiento",
+          "Responsabilidad civil",
+          "Asistencia en carretera"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de servicios médicos y de asistencia sanitaria según el plan contratado.",
+        "coberturas": [
+          "Telemedicina 24/7",
+          "Consultas médicas especializadas",
+          "Atención médica a domicilio",
+          "Perfil de laboratorio simple",
+          "Tratamiento unidosis en domicilio"
+        ]
+      },
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección económica para la familia en caso de fallecimiento del asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "accidentes-personales",
+        "nombre": "Accidentes personales",
+        "descripcion": "Cobertura ante eventos o sucesos fortuitos que afecten al asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "patrimoniales",
+        "nombre": "Seguros patrimoniales",
+        "descripcion": "Protección de bienes y responsabilidades frente a riesgos cubiertos, incluyendo incendio, terremoto, robo y responsabilidad civil.",
+        "coberturas": [
+          "Incendio",
+          "Terremoto",
+          "Robo",
+          "Asalto o atraco",
+          "Daños por agua",
+          "Inundación",
+          "Responsabilidad civil",
+          "Rotura de vidrios"
+        ]
+      },
+      {
+        "id": "fianzas",
+        "nombre": "Fianzas",
+        "descripcion": "Garantías y respaldo para obligaciones contractuales y comerciales, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Fianza de cumplimiento",
+          "Fianza de buena ejecución",
+          "Fianza de anticipo"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de Estar Seguros",
+      "url": "https://www.estarseguros.com/",
+      "verificadoEn": "2026-11-17"
+    }
+  },
+  {
+    "id": "mapfre-la-seguridad",
+    "nombre": "MAPFRE La Seguridad, C.A. de Seguros",
+    "calificacion": "5",
+    "slug": "mapfre-la-seguridad",
+    "rif": "J-00021410-7",
+    "logo": "/logos/mapfre-la-seguridad.svg",
+    "descripcion": "Compañía aseguradora venezolana perteneciente al grupo MAPFRE, con presencia en el mercado nacional y una oferta de productos para personas y empresas en ramos como automóvil, salud, vida, accidentes, hogar, funeraria y responsabilidad civil.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Avenida Francisco de Miranda, Torre Financiera Caracas (TFC), piso 14, Urbanización La Castellana, Caracas 1060, Venezuela"
+    },
+    "contacto": {
+      "telefono": "0212-213.80.00",
+      "email": "tucontactomapfre@mapfre.com.ve",
+      "website": "https://www.mapfre.com.ve/"
+    },
+    "ramos": [
+      {
+        "id": "automovil",
+        "nombre": "Seguro de automóvil",
+        "descripcion": "Protección para vehículos ante eventos cubiertos, incluyendo responsabilidad civil y daños propios según el plan contratado.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia en carretera"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos y de asistencia sanitaria según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Consultas médicas",
+          "Red de clínicas y médicos"
+        ]
+      },
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección económica para la familia en caso de fallecimiento del asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "accidentes-personales",
+        "nombre": "Accidentes personales",
+        "descripcion": "Cobertura ante eventos o sucesos fortuitos que afecten al asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "hogar",
+        "nombre": "Seguro de hogar",
+        "descripcion": "Protección del inmueble y contenido frente a eventos cubiertos, incluyendo incendio, terremoto, robo y responsabilidad civil.",
+        "coberturas": [
+          "Incendio",
+          "Terremoto",
+          "Robo",
+          "Daños por agua",
+          "Inundación",
+          "Responsabilidad civil",
+          "Rotura de vidrios"
+        ]
+      },
+      {
+        "id": "funeraria",
+        "nombre": "Seguro funerario",
+        "descripcion": "Cobertura de servicios funerarios y de sepelio según el plan contratado.",
+        "coberturas": [
+          "Servicios funerarios",
+          "Gastos de sepelio",
+          "Asistencia funeraria"
+        ]
+      },
+      {
+        "id": "responsabilidad-civil",
+        "nombre": "Responsabilidad civil",
+        "descripcion": "Cobertura de responsabilidades civiles frente a terceros, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Responsabilidad civil general",
+          "Responsabilidad civil vehicular",
+          "Responsabilidad civil familiar"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de MAPFRE Venezuela",
+      "url": "https://www.mapfre.com.ve/",
+      "verificadoEn": "2026-11-17"
+    }
+  },
+  {
+    "id": "real-seguros",
+    "nombre": "Real Seguros, S.A.",
+    "calificacion": "4",
+    "slug": "real-seguros",
+    "rif": "J-00034024-2",
+    "logo": "/logos/real-seguros.svg",
+    "descripcion": "Compañía aseguradora venezolana con más de 70 años de experiencia en el mercado nacional. Ofrece productos para personas y empresas en ramos como vehículos, salud, accidentes personales, patrimoniales y responsabilidad civil, con una red de más de 300 clínicas afiliadas y más de 40.000 personas aseguradas.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Avenida Francisco de Miranda, Edificio Centro Seguros Sudamérica, piso 8, Urbanización El Rosal, Caracas 1060, Venezuela"
+    },
+    "contacto": {
+      "telefono": "0212-9010973",
+      "email": "info@real-seguros.com",
+      "website": "https://real-seguros.com/"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección para vehículos terrestres ante eventos cubiertos, incluyendo responsabilidad civil y daños propios según el plan contratado.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Asistencia en carretera"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos y de asistencia sanitaria según el plan contratado, con red de más de 300 clínicas afiliadas y atención de emergencias y urgencias médicas.",
+        "coberturas": [
+          "Emergencias y urgencias médicas",
+          "Atención médica domiciliaria",
+          "Traslado en ambulancia",
+          "Red de clínicas afiliadas",
+          "Consultas médicas"
+        ]
+      },
+      {
+        "id": "accidentes-personales",
+        "nombre": "Accidentes personales",
+        "descripcion": "Cobertura ante eventos o sucesos fortuitos que afecten al asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Incapacidad temporal",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "patrimoniales",
+        "nombre": "Seguros patrimoniales",
+        "descripcion": "Protección de bienes muebles e inmuebles residenciales y comerciales frente a riesgos cubiertos, incluyendo incendio, robo, daños por agua y responsabilidad civil.",
+        "coberturas": [
+          "Incendio",
+          "Robo",
+          "Asalto o atraco",
+          "Daños por agua",
+          "Inundación",
+          "Responsabilidad civil",
+          "Rotura de vidrios"
+        ]
+      },
+      {
+        "id": "empresarial",
+        "nombre": "Seguros empresariales",
+        "descripcion": "Protección de activos y operaciones empresariales frente a imprevistos y causas externas, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Todo riesgo empresarial",
+          "Responsabilidad civil",
+          "Rotura de maquinaria",
+          "Pérdida de beneficios"
+        ]
+      },
+      {
+        "id": "dispositivos-electronicos",
+        "nombre": "Seguro para dispositivos electrónicos",
+        "descripcion": "Cobertura para dispositivos electrónicos frente a daños, robo y otros eventos cubiertos, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Daños accidentales",
+          "Robo",
+          "Fallas mecánicas o eléctricas"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de Real Seguros",
+      "url": "https://real-seguros.com/",
+      "verificadoEn": "2026-11-17"
+    }
+  },
+  {
+    "id": "bbva-seguros",
+    "nombre": "BBVA Seguros, C.A.",
+    "calificacion": "3",
+    "slug": "bbva-seguros",
+    "rif": "J-00034026-9",
+    "logo": "/logos/bbva-seguros.svg",
+    "descripcion": "Compañía aseguradora venezolana perteneciente al grupo BBVA, con presencia en el mercado nacional y una oferta de productos para personas y empresas en ramos como vida, salud, accidentes personales, patrimoniales y responsabilidad civil.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Avenida San Juan Bosco con 2da Transversal de Altamira, Edificio Centro Altamira, piso 1, Urbanización Altamira, Caracas 1060, Venezuela"
+    },
+    "contacto": {
+      "telefono": "0212-274.5111",
+      "email": "seguros.provincial.ve@bbva.com",
+      "website": "https://www.segurosprovincial.com/"
+    },
+    "ramos": [
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección económica para la familia en caso de fallecimiento del asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos y de asistencia sanitaria según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Consultas médicas",
+          "Red de clínicas y médicos"
+        ]
+      },
+      {
+        "id": "accidentes-personales",
+        "nombre": "Accidentes personales",
+        "descripcion": "Cobertura ante eventos o sucesos fortuitos que afecten al asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "patrimoniales",
+        "nombre": "Seguros patrimoniales",
+        "descripcion": "Protección de bienes muebles e inmuebles residenciales y comerciales frente a riesgos cubiertos, incluyendo incendio, terremoto, robo y responsabilidad civil.",
+        "coberturas": [
+          "Incendio",
+          "Terremoto",
+          "Robo",
+          "Asalto o atraco",
+          "Daños por agua",
+          "Inundación",
+          "Responsabilidad civil",
+          "Rotura de vidrios"
+        ]
+      },
+      {
+        "id": "responsabilidad-civil",
+        "nombre": "Responsabilidad civil",
+        "descripcion": "Cobertura de responsabilidades civiles frente a terceros, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Responsabilidad civil general",
+          "Responsabilidad civil vehicular",
+          "Responsabilidad civil familiar"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de BBVA Seguros (Seguros Provincial)",
+      "url": "https://www.segurosprovincial.com/",
+      "verificadoEn": "2026-11-17"
+    }
+  },
+  {
+    "id": "seguros-piramide",
+    "nombre": "Seguros Pirámide, C.A.",
+    "calificacion": "2",
+    "slug": "seguros-piramide",
+    "rif": "J-00106474-5",
+    "logo": "/logos/seguros-piramide.svg",
+    "descripcion": "Compañía aseguradora venezolana con presencia en el mercado nacional y una oferta de productos para personas y empresas en ramos como vehículos, salud, vida, accidentes personales, patrimoniales y responsabilidad civil.",
+    "estatus": "Información referencial",
+    "direccion": {
+      "estado": "Distrito Capital",
+      "ciudad": "Caracas",
+      "detalle": "Avenida Tamanaco, Edificio Impres, piso PB, Urbanización El Rosal, Caracas 1060, Venezuela"
+    },
+    "contacto": {
+      "telefono": "0800-7747264",
+      "email": "atencionsiniestroauto@segurospiramide.com",
+      "website": "https://segurospiramide.com/"
+    },
+    "ramos": [
+      {
+        "id": "vehiculos",
+        "nombre": "Seguro de vehículos",
+        "descripcion": "Protección para vehículos ante accidentes, robos o imprevistos, con opciones de cobertura básica, amplia y pérdida total, según el plan contratado.",
+        "coberturas": [
+          "Responsabilidad civil",
+          "Daños propios",
+          "Robo total o parcial",
+          "Choque",
+          "Desastres naturales",
+          "Asistencia en carretera",
+          "Defensa penal"
+        ]
+      },
+      {
+        "id": "salud",
+        "nombre": "Salud / HCM",
+        "descripcion": "Cobertura de gastos médicos y de asistencia sanitaria según el plan contratado.",
+        "coberturas": [
+          "Hospitalización",
+          "Cirugías",
+          "Emergencias",
+          "Consultas médicas",
+          "Red de clínicas y médicos"
+        ]
+      },
+      {
+        "id": "vida",
+        "nombre": "Seguro de vida",
+        "descripcion": "Protección económica para la familia en caso de fallecimiento del asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Fallecimiento",
+          "Invalidez",
+          "Enfermedades graves"
+        ]
+      },
+      {
+        "id": "accidentes-personales",
+        "nombre": "Accidentes personales",
+        "descripcion": "Cobertura ante eventos o sucesos fortuitos que afecten al asegurado, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Muerte accidental",
+          "Invalidez permanente",
+          "Gastos médicos por accidente"
+        ]
+      },
+      {
+        "id": "patrimoniales",
+        "nombre": "Seguros patrimoniales",
+        "descripcion": "Protección de bienes muebles e inmuebles residenciales y comerciales frente a riesgos cubiertos, incluyendo incendio, terremoto, robo y responsabilidad civil.",
+        "coberturas": [
+          "Incendio",
+          "Terremoto",
+          "Robo",
+          "Asalto o atraco",
+          "Daños por agua",
+          "Inundación",
+          "Responsabilidad civil",
+          "Rotura de vidrios"
+        ]
+      },
+      {
+        "id": "responsabilidad-civil",
+        "nombre": "Responsabilidad civil",
+        "descripcion": "Cobertura de responsabilidades civiles frente a terceros, conforme a las condiciones de la póliza.",
+        "coberturas": [
+          "Responsabilidad civil general",
+          "Responsabilidad civil vehicular",
+          "Responsabilidad civil familiar"
+        ]
+      }
+    ],
+    "fuente": {
+      "nombre": "Sitio oficial de Seguros Pirámide",
+      "url": "https://segurospiramide.com/",
+      "verificadoEn": "2026-11-17"
+    }
+  }
+]
