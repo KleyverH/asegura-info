@@ -19,15 +19,15 @@ export function App() {
       {/* Aquí cambia la página según la URL */}
       <main className='min-h-screen bg-sombra'>
         <Routes>
-          <Route path="/" element={<Inicio />} />
-          <Route path="/directorio" element={<Directorio />} />
-          <Route path="/ficha-tecnica/:slug" element={<FichaTecnica />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/comparacion" element={<Comparacion />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/admin/dashboard" element={<Dashboard />} />
-          <Route path="/admin/aseguradoras/nueva" element={<Formulario />} />
-          <Route path="/admin/aseguradoras/:id/editar" element={<Formulario />} />
+          <Route path="/asegura-info/" element={<Inicio />} />
+          <Route path="/asegura-info/directorio" element={<Directorio />} />
+          <Route path="/asegura-info/ficha-tecnica/:slug" element={<FichaTecnica />} />
+          <Route path="/asegura-info/blog" element={<Blog />} />
+          <Route path="/asegura-info/comparacion" element={<Comparacion />} />
+          <Route path="/asegura-info/login" element={<Login />} />
+          <Route path="/asegura-info/admin/dashboard" element={<Dashboard />} />
+          <Route path="/asegura-info/admin/aseguradoras/nueva" element={<Formulario />} />
+          <Route path="/asegura-info/admin/aseguradoras/:id/editar" element={<Formulario />} />
           <Route path="*" element={<h1>Página no encontrada (404)</h1>} />
         </Routes>
       </main>
