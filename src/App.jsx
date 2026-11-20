@@ -12,7 +12,7 @@ import Formulario from "./pages/admin/Formulario";
 
 export function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/asegura-info">
       {/* El Navbar estará visible en todas las páginas */}
       <NavbarMain />
 
